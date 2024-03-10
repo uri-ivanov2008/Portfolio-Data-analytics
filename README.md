@@ -22,4 +22,4 @@
 
  ## Навигация
 * [ABC-анализ](/tree/main/ABC-анализ)
-* [RFM-анализ](/github.com/uri-ivanov2008/Portfolio-Data-analytics/RFM-анализ/#RFM-анализ)
+* [RFM-анализ](https://github.com/uri-ivanov2008/Portfolio-Data-analytics/tree/main/RFM-анализ/#RFM-анализ)
